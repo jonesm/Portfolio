@@ -2,7 +2,7 @@
 
 /**
 *   Purpose: Outputs A Verification PNG and Enters Key Into a Session
-*   By: Matthew L Jones (matthew.jones@deityproductions.com)
+*   By: Matthew L Jones (mljphpdev.com)
 *   Created: 07/07/08
 *   Last Updated: 05/24/11
 */
